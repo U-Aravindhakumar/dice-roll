@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    display: block;
+    border: 5px solid black;
+}
+
+#roll{
+    margin: 50px 50px 50px 50px;
+    padding: 30px;
+    border-radius: 5px;
+    font-size: 1.1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+#roll:hover{
+    cursor: pointer;
+    background: #799da0;
+}
+#myh1{
+    font-size: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    text-shadow: -1px 1px black,
+                1px -1px black,
+                -1px -1px black,
+                1px 1px black;
+}
